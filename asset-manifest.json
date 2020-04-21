@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/skynet/static/css/main.ad2db53a.chunk.css",
-    "main.js": "/skynet/static/js/main.a40b7cdf.chunk.js",
-    "main.js.map": "/skynet/static/js/main.a40b7cdf.chunk.js.map",
+    "main.css": "/skynet/static/css/main.e37019bf.chunk.css",
+    "main.js": "/skynet/static/js/main.3f875b19.chunk.js",
+    "main.js.map": "/skynet/static/js/main.3f875b19.chunk.js.map",
     "runtime-main.js": "/skynet/static/js/runtime-main.20ce5af1.js",
     "runtime-main.js.map": "/skynet/static/js/runtime-main.20ce5af1.js.map",
     "static/css/2.4b70e1e3.chunk.css": "/skynet/static/css/2.4b70e1e3.chunk.css",
     "static/js/2.5a255e2c.chunk.js": "/skynet/static/js/2.5a255e2c.chunk.js",
     "static/js/2.5a255e2c.chunk.js.map": "/skynet/static/js/2.5a255e2c.chunk.js.map",
     "index.html": "/skynet/index.html",
-    "precache-manifest.bd12224294d822051658fb74f43258bd.js": "/skynet/precache-manifest.bd12224294d822051658fb74f43258bd.js",
+    "precache-manifest.211c55e34f2f733372f0eff6bf72cfee.js": "/skynet/precache-manifest.211c55e34f2f733372f0eff6bf72cfee.js",
     "service-worker.js": "/skynet/service-worker.js",
     "static/css/2.4b70e1e3.chunk.css.map": "/skynet/static/css/2.4b70e1e3.chunk.css.map",
-    "static/css/main.ad2db53a.chunk.css.map": "/skynet/static/css/main.ad2db53a.chunk.css.map",
+    "static/css/main.e37019bf.chunk.css.map": "/skynet/static/css/main.e37019bf.chunk.css.map",
     "static/js/2.5a255e2c.chunk.js.LICENSE.txt": "/skynet/static/js/2.5a255e2c.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/skynet/static/media/outline-icons.ef60a4f6.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.20ce5af1.js",
     "static/css/2.4b70e1e3.chunk.css",
     "static/js/2.5a255e2c.chunk.js",
-    "static/css/main.ad2db53a.chunk.css",
-    "static/js/main.a40b7cdf.chunk.js"
+    "static/css/main.e37019bf.chunk.css",
+    "static/js/main.3f875b19.chunk.js"
   ]
 }
