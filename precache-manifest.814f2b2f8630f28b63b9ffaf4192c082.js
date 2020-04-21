@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e79a65f8b2d4c530db08497d62a88b1",
+    "revision": "3b746c44fec043b79014c5cdba10d516",
     "url": "/skynet/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skynet/static/css/2.4b70e1e3.chunk.css"
   },
   {
-    "revision": "311ddd7162f43e407988",
-    "url": "/skynet/static/css/main.c43a0aa0.chunk.css"
+    "revision": "4681915a37a8a24134ee",
+    "url": "/skynet/static/css/main.ad2db53a.chunk.css"
   },
   {
     "revision": "725bdb3b1053b21d5e9d",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skynet/static/js/2.5a255e2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "311ddd7162f43e407988",
+    "revision": "4681915a37a8a24134ee",
     "url": "/skynet/static/js/main.870a475a.chunk.js"
   },
   {

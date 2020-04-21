@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/skynet/static/css/main.c43a0aa0.chunk.css",
+    "main.css": "/skynet/static/css/main.ad2db53a.chunk.css",
     "main.js": "/skynet/static/js/main.870a475a.chunk.js",
     "main.js.map": "/skynet/static/js/main.870a475a.chunk.js.map",
     "runtime-main.js": "/skynet/static/js/runtime-main.20ce5af1.js",
@@ -9,10 +9,10 @@
     "static/js/2.5a255e2c.chunk.js": "/skynet/static/js/2.5a255e2c.chunk.js",
     "static/js/2.5a255e2c.chunk.js.map": "/skynet/static/js/2.5a255e2c.chunk.js.map",
     "index.html": "/skynet/index.html",
-    "precache-manifest.fc0b0c26e4d69e2f91a683cfea528f6e.js": "/skynet/precache-manifest.fc0b0c26e4d69e2f91a683cfea528f6e.js",
+    "precache-manifest.814f2b2f8630f28b63b9ffaf4192c082.js": "/skynet/precache-manifest.814f2b2f8630f28b63b9ffaf4192c082.js",
     "service-worker.js": "/skynet/service-worker.js",
     "static/css/2.4b70e1e3.chunk.css.map": "/skynet/static/css/2.4b70e1e3.chunk.css.map",
-    "static/css/main.c43a0aa0.chunk.css.map": "/skynet/static/css/main.c43a0aa0.chunk.css.map",
+    "static/css/main.ad2db53a.chunk.css.map": "/skynet/static/css/main.ad2db53a.chunk.css.map",
     "static/js/2.5a255e2c.chunk.js.LICENSE.txt": "/skynet/static/js/2.5a255e2c.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/skynet/static/media/outline-icons.ef60a4f6.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.20ce5af1.js",
     "static/css/2.4b70e1e3.chunk.css",
     "static/js/2.5a255e2c.chunk.js",
-    "static/css/main.c43a0aa0.chunk.css",
+    "static/css/main.ad2db53a.chunk.css",
     "static/js/main.870a475a.chunk.js"
   ]
 }
